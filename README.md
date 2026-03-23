@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Jibank21
-- 👀 I’m interested in front end developer
-- 🌱 I’m currently learning web development( react)
-- 💞️ I’m looking to collaborate on ...
-- 📫 you can contact me via jibank362@gmail.com
+## 🚀 About Me
+I’m a Software Developer with experience building scalable full-stack applications and real-time data systems using React, Python (Flask), and PostgreSQL. I specialize in developing performance-driven applications, including analytics dashboards and data streaming systems. I’m particularly interested in AI-powered products, automation, and scalable system design.
 
-<!---
-Jibank21/Jibank21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+- 👋 Hi, I’m Jiban Khadka  
+- 💻 Full-Stack Developer (React | Python | Flask | PostgreSQL)  
+- 🛠️ Currently working on analytics dashboards, streaming data systems, and enterprise web applications (TMS, CRM, SRM)  
+- 🚀 Strong focus on performance optimization, real-time processing, and clean architecture  
+- 🤖 Exploring AI-driven applications and content automation  
+- 🌱 Continuously learning system design and advanced backend engineering  
+- 🤝 Open to collaboration on full-stack, data, or AI-related projects 
+- 📫 Reach me at: jibank362@gmail.com  
